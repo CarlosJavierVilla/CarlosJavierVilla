@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosjaviervilla" alt="carlosjaviervilla" /></a> </p>
 ---
-- 👨🏽‍💻 Visit my repositories.
+
+👨🏽‍💻 Visit my repositories.
+
 ---
 
 - 🔭 I’m currently working on [sneakers-app](https://github.com/CarlosJavierVilla/sneakers-app)
