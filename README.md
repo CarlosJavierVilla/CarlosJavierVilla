@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosjaviervilla&label=Profile%20views&color=0e75b6&style=flat" alt="carlosjaviervilla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosjaviervilla" alt="carlosjaviervilla" /></a> </p>
--------------
+---
 - 👨🏽‍💻 Visit my repositories.
--------------
+---
+
 - 🔭 I’m currently working on [sneakers-app](https://github.com/CarlosJavierVilla/sneakers-app)
 
 - 🌱 I’m currently learning **to develop a full stack application**
